@@ -10,15 +10,13 @@
  <a href="https://github.com/KSP-RO/RP-1/compare/v4.5.0.0...master" rel="nofollow"><img src="https://img.shields.io/github/commits-since/KSP-RO/RP-1/latest"></a>
 </p>
 
-Welcome to Realistic Progression One, the heavyweight career addon for Kerbal Space Program's Realism Overhaul.
+Welcome to my Advanced X-Planes fork. Currently what I have planned are contracts for the following vehicles/proposals:
 
-RP-1 is a career mode for RealismOverhaul with minimal install requirements, and with fair and balanced gameplay. Our aim is to allow players to enjoy RealismOverhaul in career mode, without installing a huge number of modules on top of those required by RealismOverhaul itself. However we also wish to ensure that RP-1 works with as many additional mods as possible; we use a fresh fully icon rebuilt Tech Tree for the basis of career progression, and try to place as many parts from other mods as possible in a historical fashion.  Right now a good number of nodes lack much in the way of parts allowing for placement of balanced historically appropriate parts in those nodes. 
+NAVAHO, SLAM, X-6, X-7, X-10, McDonnell HYFAC (Both the Mach 12 rocketplane and the Mach 6 jet), B-58, XB-70, VTOL aircraft, STOL aircraft, and a few others.
 
-RP-1 is a community effort, and your contributions are appreciated. You can report issues [on our issues page](https://github.com/KSP-RO/RP-1/issues), and access the [source code on github](https://github.com/KSP-RO/RP-1/tree/master). 
+While I may not be able to add all of these, my goal with this new program is to build upon the skills players learned in Early X-Planes to create new, fun, and challenging X-plane contracts that mirror real world aircraft and test-vehicles developed between ~1950 and ~1975. Ultimately, a third X-Plane program (ISINGLASS to the X-38) and two SST-Dev programs would stem from this, further pushing players aircraft development skills, though those are less planned out at present. This will be developed at my own pace, so I will not make any timeline promises, but I'd love to one day in the not-so-distant future see Advanced X-Planes and other programs of mine in RP-1 as full-fledged options for players career mode saves.
 
 When starting the game, we recommend "Easy" or "Normal" for players new to RP-1, and "Moderate" or "Hard" settings for experienced players.
-
-Head to [the wiki](https://github.com/KSP-RO/RP-1/wiki) to learn more.
 
 ---
 
@@ -26,35 +24,6 @@ License: CC-BY-NC-SA-4.0
 
 Release Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/190040-161-173-rp-1-realistic-progression-one-v12/
 
-Github Repo:  https://github.com/KSP-RO/RP-1
+Official RP-1 Github Repo:  https://github.com/KSP-RO/RP-1 (Download that, not this fork!)
 
 Discord Link: https://discord.gg/V73jjNd
-
----
-
-**Requirements:**
-
-*These mods are required for RP-1 to function properly.*
-- Realism Overhaul and all of its required mods (including Real Solar System)
-- Module Manager
-- SXT Continued (Needed for engines)
-- Contract Configurator (Needed to make more complex RP-1 contracts function)
-- Custom Barn Kit
-- Ven's Stock Revamp - Core (Needed for engines)
-- Ven's Stock Revamp - New Parts (Needed for engines)
-- Click Through Blocker
-- Toolbar Controller
-- Kerbalism (RO Config)
-- KSP Community Fixes
-
-**RO-Mods:**
-
-*These mods were created specifically for use with the RO/RP-1 mod suite, and provide high-quality and well-supported parts.*
-- ROEngines
-- ROTanks
-- ROCapsules
-- ROSolar
-
-For more mod suggestions, go to [our recommended mod page](https://github.com/KSP-RO/RP-1/wiki/Extra-Mods-to-Consider)
-
-Note that more effort has gone into balancing earlier nodes than later nodes. Your feedback and assistance in balancing all nodes is appreciated!
