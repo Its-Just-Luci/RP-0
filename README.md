@@ -17,7 +17,7 @@ Welcome to my Advanced X-Planes fork. Currently what I have planned are contract
 NAVAHO, SLAM, X-6, X-7, X-10, McDonnell HYFAC (Both the Mach 12 rocketplane and the Mach 6 jet), B-58, XB-70, VTOL aircraft, STOL aircraft, and a few others.
 
 
-While I may not be able to add all of these, my goal with this new program is to build upon the skills players learned in Early X-Planes to create new, fun, and challenging X-plane contracts that mirror real world aircraft and test-vehicles developed between ~1950 and ~1975. Ultimately, a third X-Plane program (ISINGLASS to the X-38) and two SST-Dev programs would stem from this, further pushing players aircraft development skills, though those are less planned out at present. This will be developed at my own pace, so I will not make any timeline promises, but I'd love to one day in the not-so-distant future see Advanced X-Planes and other programs of mine in RP-1 as full-fledged options for players career mode saves.
+While I may not be able to add all of these, my goal with this new program is to build upon the skills players learned in Early X-Planes to create new, fun, and challenging X-plane contracts that mirror real world aircraft and test-vehicles developed between ~1950 and ~1975. Ultimately, a third X-Plane program (ISINGLASS to the X-37) and two SST-Dev programs would stem from this, further pushing players aircraft development skills, though those are less planned out at present. This will be developed at my own pace, so I will not make any timeline promises, but I'd love to one day in the not-so-distant future see Advanced X-Planes and other programs of mine in RP-1 as full-fledged options for players career mode saves.
 
 ---
 
